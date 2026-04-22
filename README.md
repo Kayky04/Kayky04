@@ -1,7 +1,7 @@
-<h1 align="center">👋 Fala, eu sou o Kayky</h1>
+<h1 align="center">👋 Olá, eu sou o Kayky</h1>
 
 <p align="center">
-💻 Desenvolvedor Java em formação <br>
+💻 Desenvolvedor em formação <br>
 🚀 Apaixonado por tecnologia
 </p>
 
@@ -14,21 +14,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 </div>
 
----
-
-## 🛠️ Tecnologias
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
-## 📌 Projetos
-
-- ☕ Sistema de Cafeteria em Java  
-- 📊 (coloca outro projeto aqui)  
 
 ---
 
