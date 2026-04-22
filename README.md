@@ -10,7 +10,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky04&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<p>
   <img align= "center" alt= "Kayky04-Java" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align= "center" alt= "Kayky04-Java" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
