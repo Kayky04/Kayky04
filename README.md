@@ -1,20 +1,16 @@
 <h1 align="center">👋 Fala, eu sou o Kayky</h1>
 
-<p align="center">
+<h2 align="center">
 💻 Desenvolvedor em formação<br>
 🚀 Apaixonado por tecnologia
-</p>
+</h2>
 
 ---
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kayky04&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky04&layout=compact&theme=tokyonight"/>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kayky04&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky04&layout=compact&theme=tokyonight"/>
 
 ---
 
