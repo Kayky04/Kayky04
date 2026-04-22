@@ -10,10 +10,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky04&layout=compact&theme=tokyonight"/>
 </p>
 
-<div style= "display: inline_block"><br>
-  <img align= "center" alt= "Kayky04-Java" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align= "center" alt= "Kayky04-Java" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kayky-costa-7759a33a4/">
