@@ -1,4 +1,4 @@
-<h1 align="center">👋 Opa, eu sou o Kayky</h1>
+<h1 align="center">👋 Opa, eu sou o Kayky!</h1>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kayky04&show_icons=true&theme=tokyonight"/>
