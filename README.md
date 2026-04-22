@@ -9,10 +9,8 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kayky04&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky04&layout=compact&theme=tokyonight"/>
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kayky04&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky04&layout=compact&theme=tokyonight"/>
 
 ---
 
