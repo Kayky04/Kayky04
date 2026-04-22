@@ -1,10 +1,5 @@
 <h1 align="center">👋 Opa, eu sou o Kayky</h1>
 
-<h3 align="center">
-💻 Desenvolvedor em formação<br>
-🚀 Apaixonado por tecnologia
-</h3>
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kayky04&show_icons=true&theme=tokyonight"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky04&layout=compact&theme=tokyonight"/>
