@@ -20,12 +20,10 @@
 
 ## 🛠️ Tecnologias
 
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kayky04&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky04&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
