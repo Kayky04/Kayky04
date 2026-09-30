@@ -1,4 +1,4 @@
-<h1 align="center">👋 Opa, eu sou o Kayky!</h1>
+<h1 align="center">👋 Opa!</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60"/>
